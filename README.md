@@ -1,3 +1,3 @@
 My Travel Journal
 
-View this page o your browser: [http://localhost:3000](http://localhost:3000) 
+View this page o your browser:  https://19zay.github.io/My-Travel-Journal/ 
